@@ -1,0 +1,16 @@
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.Form1.resources
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.csproj.GenerateResource.cache
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.AssemblyInfoInputs.cache
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.AssemblyInfo.cs
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\source\repos\WindowedGamer\bin\Release\net9.0-windows\WindowedGamer.exe
+C:\Users\Jacob\source\repos\WindowedGamer\bin\Release\net9.0-windows\WindowedGamer.deps.json
+C:\Users\Jacob\source\repos\WindowedGamer\bin\Release\net9.0-windows\WindowedGamer.runtimeconfig.json
+C:\Users\Jacob\source\repos\WindowedGamer\bin\Release\net9.0-windows\WindowedGamer.dll
+C:\Users\Jacob\source\repos\WindowedGamer\bin\Release\net9.0-windows\WindowedGamer.pdb
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.dll
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\refint\WindowedGamer.dll
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.pdb
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\WindowedGamer.genruntimeconfig.cache
+C:\Users\Jacob\source\repos\WindowedGamer\obj\Release\net9.0-windows\ref\WindowedGamer.dll
