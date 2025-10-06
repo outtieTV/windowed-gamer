@@ -7,9 +7,9 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-using static BorderlessGamingUtility.Win32;
+using static BWindowedGamer.Win32;
 
-namespace BorderlessGamingUtility
+namespace BWindowedGamer
 {
     // ====================================================================
     // 1. P/Invoke Declarations for Win32 API
@@ -181,7 +181,7 @@ namespace BorderlessGamingUtility
 
         public Form1()
         {
-            Text = "Borderless Gaming Utility";
+            Text = "Windowed Gamer by OuttieTV";
             MinimumSize = new Size(800, 500);
             InitializeComponents();
             RefreshWindowList();
