@@ -7,9 +7,9 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Text;
 using System.Windows.Forms;
-using static BWindowedGamer.Win32;
+using static WindowedGamer.Win32;
 
-namespace BWindowedGamer
+namespace WindowedGamer
 {
     // ====================================================================
     // 1. P/Invoke Declarations for Win32 API
@@ -514,3 +514,4 @@ namespace BWindowedGamer
         }
     }
 }
+
