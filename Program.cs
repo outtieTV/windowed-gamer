@@ -508,6 +508,7 @@ namespace BWindowedGamer
         [STAThread]
         public static void Main()
         {
+            System.Windows.Forms.Application.SetHighDpiMode(HighDpiMode.PerMonitorV2);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
